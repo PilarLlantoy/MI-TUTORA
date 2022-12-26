@@ -1,0 +1,22 @@
+[
+  {
+    "career": "Ingenieria Informatica",
+    "fullName": "OSCAR, DUEÑAS DAMIAN",
+    "id": 0,
+    "photoUrl": "https://pm1.narvii.com/6970/4a132caa6ff9a459650293f21e42a365ca653ad3r1-554-594v2_hq.jpg",
+    "qualification": "4",
+    "stats": {
+      "activeBookings": 0,
+      "cancelledClasses": 0,
+      "complaints": 0,
+      "currentCaps": 0,
+      "impartedClasses": 0,
+      "offeringCourses": 0,
+      "passedCaps": 0,
+      "postponedClasses": 0
+    },
+    "suspended": "string",
+    "university": "Pontificia Universidad Católica del Perú",
+    "description": "consectetur adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue..."
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Marcia Perez",
+    "type": "Selección de Tema",
+    "date": "09/14/2022 - 8:23pm",
+    "topicCategory": "Matemáticas",
+    "topic": "Aritmética",
+    "topicDetails": "Sumas, restas, multiplicaciones de más de 2 dígitos. Números primos entre sí (PESI).)",
+    "topicLevels": "1ro Primaria"
+  },
+  {
+    "name": "Pamela Gutierritos",
+    "type": "Cliente Reportado",
+    "client": "Carlos Orozco",
+    "details": "El cliente no cumplió las reglas durante la sesión de la clase sincrónica.",
+    "date": "02/09/2022 - 1:23pm"
+  },
+  {
+    "name": "Sara Mendez",
+    "type": "Cambios de datos de perfil",
+    "date": "07/14/2022 - 1:23pm"
+  },
+  {
+    "name": "Claudia Guiterrez",
+    "type": "Cliente Reportado",
+    "client": "Oscar Peralta",
+    "details": "Cliente reportado por no pagar y faltarle el respeto en reiteradas ocasiones a la socia AIM.",
+    "date": "02/10/2022 - 1:23pm"
+  },
+  {
+    "name": "Oscar Lopez",
+    "type": "Socia Reportada",
+    "client": "Sara Mendez",
+    "details": "Socia reportada por no cumplir con la totalidad de las clases programadas.",
+    "date": "02/10/2022 - 1:23pm"
+  }
+]
