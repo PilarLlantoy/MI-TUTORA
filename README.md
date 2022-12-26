@@ -11,3 +11,5 @@
 <h2>
     Instalación de dependencias recomendada: <span> yarn install </span>
 </h2>
+
+<p>Prototipo figma: https://www.figma.com/file/TMv6DD0SBbmFor1lsjib5O/DP2---Prototipos-(Copy)?node-id=510%3A7054&t=sNHhWQwbbUV4NDJz-1 </p>
